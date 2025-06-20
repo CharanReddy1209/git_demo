@@ -1,2 +1,3 @@
 print(f"Hello World!")
-# This line is to raise the merge conflict
+# Hello World! is a simple program that prints "Hello World!" to the console.
+# It is often used as a beginner's first program in many programming languages.

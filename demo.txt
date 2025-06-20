@@ -9,3 +9,7 @@ line 6
 line 7
 line 8
 line 9
+
+another line for testing the git stash.
+this is another line for the git amend
+one more amend

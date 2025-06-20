@@ -1,3 +1,7 @@
 first line in the file and the branch is main
 git config --global user.name "charan"
 git config --global user.name "charan@gmail.com"
+
+git show -- this gives the complete details about the git commit.
+git show HEAD
+git show <commit-hash>

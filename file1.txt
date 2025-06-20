@@ -5,3 +5,7 @@ git config --global user.name "charan@gmail.com"
 git show -- this gives the complete details about the git commit.
 git show HEAD
 git show <commit-hash>
+
+git log - this gives the list of the commits
+git log 
+git log --oneline - this gives details in a single line

@@ -9,3 +9,5 @@ git show <commit-hash>
 git log - this gives the list of the commits
 git log 
 git log --oneline - this gives details in a single line
+
+.gitignore file is used to ignore the file that are not needed to pushed to the remote repo.

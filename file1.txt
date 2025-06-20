@@ -11,3 +11,5 @@ git log
 git log --oneline - this gives details in a single line
 
 .gitignore file is used to ignore the file that are not needed to pushed to the remote repo.
+
+git rm --cached -- is used to untrack the tracked file.
